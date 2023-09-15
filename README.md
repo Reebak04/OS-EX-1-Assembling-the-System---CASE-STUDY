@@ -34,15 +34,12 @@ Mount SSDs or HDDs in drive bays or brackets.
 
 
 7.Connect Cables:
-Connect all necessary cables: power cables,
-data cables, and front-panel connectors.
-Refer to your motherboard and case manuals
-for guidance.
+Connect all necessary cables: power cables,data cables, and front-panel connectors.Refer to your motherboard and case manuals for guidance.
 ![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/8d9601cb-e1fe-40d5-adc5-e3e00c497162)
 
 8.Install the Power Supply:
-Ensure proper cable management 
-to maintain good airflow.![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/78d65ce0-482b-423b-a633-66e79a6075c8)
+Ensure proper cable management to maintain good airflow.
+![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/78d65ce0-482b-423b-a633-66e79a6075c8)
 
 
 9.Double-Check Connections:
