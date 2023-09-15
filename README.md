@@ -7,6 +7,7 @@ To assemble the system.
 Choose a clean, well-lit, and static-free area to work in.
 Place the motherboard on a non-conductive
 surface like its anti-static bag.
+
 2.Install the CPU (Central Processing Unit):
 Align the CPU with the socket, ensuring the
 notches match.Gently place the CPU into the 
@@ -28,6 +29,7 @@ on the motherboard.![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-S
 Mount SSDs or HDDs in drive 
 bays or brackets![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/27fb2d4b-3dec-4765-9d5c-b7139534b0fd)
 
+
 7.Connect Cables:
 Connect all necessary cables: power cables,
 data cables, and front-panel connectors.
@@ -38,8 +40,10 @@ for guidance.![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System-
 Ensure proper cable management 
 to maintain good airflow.![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/78d65ce0-482b-423b-a633-66e79a6075c8)
 
+
 9.Double-Check Connections:
 Ensure all connections are secure and properly seated.
+
 10.Close the Case:
 Carefully close and secure the computer case using screws.![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/f25e414d-725c-4e08-9829-107b07cba113)
 
