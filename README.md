@@ -28,8 +28,7 @@ Align the GPU with the PCIe slot
 on the motherboard.![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/2c0a15d4-d781-4961-a8bd-8d6ddcec0cf8)
 
 6.Install Storage Drives:
-Mount SSDs or HDDs in drive 
-bays or brackets
+Mount SSDs or HDDs in drive bays or brackets.
 
 ![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/27fb2d4b-3dec-4765-9d5c-b7139534b0fd)
 
