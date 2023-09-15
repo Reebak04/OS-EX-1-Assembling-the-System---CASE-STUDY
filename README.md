@@ -29,7 +29,9 @@ on the motherboard.![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-S
 
 6.Install Storage Drives:
 Mount SSDs or HDDs in drive 
-bays or brackets![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/27fb2d4b-3dec-4765-9d5c-b7139534b0fd)
+bays or brackets
+
+![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/27fb2d4b-3dec-4765-9d5c-b7139534b0fd)
 
 
 7.Connect Cables:
