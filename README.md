@@ -34,7 +34,9 @@ bays or brackets![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-Syst
 Connect all necessary cables: power cables,
 data cables, and front-panel connectors.
 Refer to your motherboard and case manuals
-for guidance.![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/8d9601cb-e1fe-40d5-adc5-e3e00c497162)
+for guidance.
+
+![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/8d9601cb-e1fe-40d5-adc5-e3e00c497162)
 
 8.Install the Power Supply:
 Ensure proper cable management 
