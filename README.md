@@ -49,7 +49,7 @@ for guidance.
 
 8.Install the Power Supply:
 Ensure proper cable management 
-to maintain good airflow.
+to maintain good airflow.![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/78d65ce0-482b-423b-a633-66e79a6075c8)
 
 ![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/78d65ce0-482b-423b-a633-66e79a6075c8)
 
