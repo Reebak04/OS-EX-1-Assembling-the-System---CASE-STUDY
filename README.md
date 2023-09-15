@@ -16,7 +16,7 @@ socket without applying any force.
 ![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/a4c51c04-7a28-4817-aa2a-15e2b3679e52)
 
 3. Install the CPU Cooler:
- Attach the CPU cooler according to the
+Attach the CPU cooler according to the
 manufacturer's instructions.![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/cd776f14-6715-4f0a-85fd-20e22258fb64)
 
 4.Install RAM (Random Access Memory):
