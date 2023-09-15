@@ -12,6 +12,7 @@ surface like its anti-static bag.
 Align the CPU with the socket, ensuring the
 notches match.Gently place the CPU into the 
 socket without applying any force.
+
 ![image](https://github.com/Reebak04/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118364993/a4c51c04-7a28-4817-aa2a-15e2b3679e52)
 
 3. Install the CPU Cooler:
